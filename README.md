@@ -1,5 +1,5 @@
 # off-decode
-This is the secret to decode and decrypt the shared secrets from Off
+This is the script to decode and decrypt the shared secrets from Off
 
 To run this script will require a little bit, but not a lot of programming knowledge. I am confident you can figure it out together.
 
